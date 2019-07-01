@@ -1,3 +1,3 @@
 # Kaggle notebooks
 
-I'll drop here the finished notebooks from Kaggle competitions
+I'll drop here some notebooks from Kaggle competitions
